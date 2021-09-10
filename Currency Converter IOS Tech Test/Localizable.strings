@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Currency Converter IOS Tech Test
+
+  Created by Soheil Mohammadi on 9/9/21.
+  
+*/
+
+
+
+"error" = "Error" ;
+"amount_for_sell_zero_error" = "Amount for selling must be bigger 0 !" ;
+"currency_sell_recieve_same_error" = "Currencies for sell and recieve must not be the same !" ;
+"currency_converted" = "Currency Converted" ;
+"currency_converted_desc_info" = "You have converted %.2f %@ to %.2f %@ ." ;
+"currency_converted_with_commission_desc_info" = "You have converted %.2f %@ to %.2f %@ . Commission Fee - 0.70 %@. ";
+"sell_amount_not_enough" = "You have not got enough %@ money !" ;
+"select_currency_to_sell" = "Select currency to sell" ;
+"select_currency_to_recieve" = "Select currency to recieve" ;
